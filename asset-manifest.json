@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/creative-app/static/css/main.91fad862.css",
-    "main.js": "/creative-app/static/js/main.351f8688.js",
+    "main.js": "/creative-app/static/js/main.def98ace.js",
     "static/js/787.e7414c99.chunk.js": "/creative-app/static/js/787.e7414c99.chunk.js",
     "static/media/graph7.jpg": "/creative-app/static/media/graph7.1c4e33e4d5f26fca64ca.jpg",
+    "static/media/grapland.jpg": "/creative-app/static/media/grapland.175387629c5862fdc156.jpg",
     "static/media/madhan.JPG": "/creative-app/static/media/madhan.2086e2772e4d658cd2fa.JPG",
     "static/media/thiru.JPG": "/creative-app/static/media/thiru.ef0172bb8a27f9c4dc36.JPG",
     "static/media/dinesh.JPG": "/creative-app/static/media/dinesh.9014363e6c1c120b1bb6.JPG",
@@ -11,7 +12,9 @@
     "static/media/siva.JPG": "/creative-app/static/media/siva.5b990d0752370520a5bc.JPG",
     "static/media/graph3.jpg": "/creative-app/static/media/graph3.685069d09752addab523.jpg",
     "static/media/canva.png": "/creative-app/static/media/canva.d34c7f54a4b12ff7ab33.png",
+    "static/media/grapdigitall.jpg": "/creative-app/static/media/grapdigitall.0a7b572b226445b744f0.jpg",
     "static/media/graphic-designing.gif": "/creative-app/static/media/graphic-designing.71236ac133c2804a0523.gif",
+    "static/media/grapnature.jpeg": "/creative-app/static/media/grapnature.9b649254cba10c080173.jpeg",
     "static/media/web.png": "/creative-app/static/media/web.70c5160faa6c44cf72d2.png",
     "static/media/graph4.webp": "/creative-app/static/media/graph4.c2c674db4e9fe66c5051.webp",
     "static/media/graph share.jpg": "/creative-app/static/media/graph share.0b83ba18f2d42d1d697d.jpg",
@@ -20,8 +23,10 @@
     "static/media/broucher.jpg": "/creative-app/static/media/broucher.e67ad21c2dbd2c968ccc.jpg",
     "static/media/grap2.jpg": "/creative-app/static/media/grap2.0c8b1b44f70c26a95384.jpg",
     "static/media/graph8.webp": "/creative-app/static/media/graph8.9a21c3df87ed8f3da59c.webp",
+    "static/media/grapeye.jpg": "/creative-app/static/media/grapeye.cbd4a480502b8f38806d.jpg",
     "static/media/graph9.webp": "/creative-app/static/media/graph9.ae6b8d723f1e27e5d4ba.webp",
     "static/media/illu.png": "/creative-app/static/media/illu.11ecd5680c21a8d4efa4.png",
+    "static/media/grpland1.jpg": "/creative-app/static/media/grpland1.0fe88fdccf8804f4bc07.jpg",
     "static/media/corel.png": "/creative-app/static/media/corel.6964ef37b4e7406930b8.png",
     "static/media/grap3.webp": "/creative-app/static/media/grap3.df5a9a19776879918cd8.webp",
     "static/media/befunky.png": "/creative-app/static/media/befunky.820e6a0accee080511aa.png",
@@ -29,11 +34,11 @@
     "static/media/awesome-screenshot.webp": "/creative-app/static/media/awesome-screenshot.e8e86b84a764299d9c73.webp",
     "index.html": "/creative-app/index.html",
     "main.91fad862.css.map": "/creative-app/static/css/main.91fad862.css.map",
-    "main.351f8688.js.map": "/creative-app/static/js/main.351f8688.js.map",
+    "main.def98ace.js.map": "/creative-app/static/js/main.def98ace.js.map",
     "787.e7414c99.chunk.js.map": "/creative-app/static/js/787.e7414c99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.91fad862.css",
-    "static/js/main.351f8688.js"
+    "static/js/main.def98ace.js"
   ]
 }
